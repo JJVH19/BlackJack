@@ -26,3 +26,5 @@ the highest sum wins the amount of coins they bet at the beginning and will be a
 * We had a simulation in which we only tested if the coins were distributed correctly based on the result of the game.
 * We used valgrind to test out if any memory leaks were present.
 * We used print statements to verify of each card was removed from the deck to be dealt to the players by printing the deck again and verify the card was no longer in the deck, but within the player's current hand.
+
+### Note: This program was intended to be used with ASCII characters for a better visual experience
